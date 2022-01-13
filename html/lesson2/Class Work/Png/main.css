@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(37,37,37,255);
+}
+div{
+    margin: 10px auto;
+    box-sizing: border-box;
+    width: 200px;
+    height: 60px;
+    border-radius: 29px;
+    text-align: center;
+    padding: 15px;
+    border: 5px solid;
+}
+.button1{
+    margin-top: 150px;
+    border-color: rgba(255,110,29,255);
+    color: rgba(142,71,31,255);
+}
+.button2{
+    border-color: rgba(44,255,242,255);
+    color: #279a92;
+}
+.button3{
+    border-color: #ff54a6;
+    color: #8f3a63;
+}
+.button4{
+    border-color: #ff3e3e;
+    color: rgba(146,49,49,255);
+}

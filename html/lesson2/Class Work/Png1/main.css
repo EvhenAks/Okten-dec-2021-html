@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+div{
+    box-sizing: border-box;
+    margin: 70px 0 0 10px;
+    width: 400px;
+    height: 250px;
+    background-color: rgba(128,128,128,255);
+    box-shadow: #d4b693 -40px -40px 25px 0;
+}
+p{
+    border-left: 5px rgba(238,6,5,255) solid;
+    margin: 10px;
+    padding-left: 20px;
+}
