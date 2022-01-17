@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+}
+
+.up{
+    height: 30vh;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.down{
+    height: 70vh;
+    display: flex;
+}
+.B{
+    background-color: silver;
+    display: flex;
+    width: 80vw;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+
+}
+.C{
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+}
+
