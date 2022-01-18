@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+
+.main-box{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.header{
+    display: flex;
+    width: 100%;
+    height: 25vh;
+    background-color: #2269bb;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+}
+.widgets{
+    display: flex;
+    column-gap: 20px;
+    width: 100vw;
+    height: 25vh;
+}
+.widgets>div{
+    display: flex;
+    background-color: #16457a;
+    width: 33vw;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.footer{
+    display: flex;
+    width: 100%;
+    height: 50vh;
+    background-color: #2269bb;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+}
