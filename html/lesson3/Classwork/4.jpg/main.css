@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.main-block{
+    height: 100vh;
+    border: black 5px solid;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 2%;
+    padding: 1%;
+}
+
+.block-top{
+    background-color: silver;
+    height: 20%;
+}
+
+.block-bot{
+    height: 80%;
+    display: flex;
+    column-gap: 1%;
+}
+
+.block-sub-right{
+    background-color: silver;
+    height: 100%;
+    width: 20%;
+}
+
+.block-sub-left{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    row-gap: 3%;
+    column-gap: 1px;
+}
+
+.blocks-small{
+    background-color: silver;
+    width: 32%;
+}
