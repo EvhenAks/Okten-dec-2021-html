@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+
+.main-block{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 35%;
+    justify-content: space-between;
+    color: white;
+    text-align: center;
+}
+
+.block-top{
+    display: flex;
+    height: 50%;
+    width: 100%;
+    column-gap: 3%;
+}
+
+.home{
+    background-color: #2269bb;
+    width: 50%;
+}
+
+.about{
+    background-color: #2269bb;
+    width: 50%;
+}
+
+.block-center{
+    background-color: #2269bb;
+    height: 25%;
+    width: 100%;
+    margin: 3% 0;
+}
+
+.block-bot{
+    display: flex;
+    height: 25%;
+    width: 100%;
+    justify-content: space-between;
+    column-gap: 3%;
+}
+
+.sub-bot{
+    background-color: #16457a;
+    width: 33%;
+}
