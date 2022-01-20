@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+
+.bgc-cornflower{
+    background-color: #246abc;
+}
+
+.bgc-blue{
+    background-color: #18467b;
+}
+
+.w300{
+    width: 300px;
+}
+
+.w920{
+    width: 920px;
+}
+
+.h300{
+    height: 300px;
+}
+
+.mr10{
+    margin-right: 10px;
+}
+
+.mb10{
+    margin-bottom: 10px;
+}
+
+.flex{
+    display: flex;
+}
+
+.main-block{
+    flex-direction: column;
+}
+
+.bot-block{
+    height: 600px;
+}
