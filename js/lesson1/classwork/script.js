@@ -75,5 +75,5 @@
 
 // let n = 3;
 // let m = 4;
-// let k = n ** 2 + Math.pow(m, 2);
+// let k = Math.pow(n ** 2 + Math.pow(m, 2), 0.5);
 // console.log(k);

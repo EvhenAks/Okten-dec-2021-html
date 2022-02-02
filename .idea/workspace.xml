@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="953236af-3137-4ccb-a96c-6ff74dff7d0f" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/js/lesson1/homework/index.html" afterDir="false" />
+    <list default="true" id="953236af-3137-4ccb-a96c-6ff74dff7d0f" name="Changes" comment="js cw1 done!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lesson1/classwork/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lesson1/classwork/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,9 @@
       <workItem from="1642694466205" duration="4330000" />
       <workItem from="1642790928550" duration="683000" />
       <workItem from="1643555981256" duration="13739000" />
-      <workItem from="1643719575268" duration="3262000" />
+      <workItem from="1643719575268" duration="3908000" />
+      <workItem from="1643807496104" duration="3461000" />
+      <workItem from="1643811202578" duration="139000" />
     </task>
     <task id="LOCAL-00001" summary="new commit">
       <created>1642101992367</created>
@@ -192,7 +194,28 @@
       <option name="project" value="LOCAL" />
       <updated>1643570942625</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="js hw1 done!">
+      <created>1643722884754</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1643722884754</updated>
+    </task>
+    <task id="LOCAL-00017" summary="js hw1 done!">
+      <created>1643722910457</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1643722910457</updated>
+    </task>
+    <task id="LOCAL-00018" summary="js cw1 done!">
+      <created>1643810968169</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1643810968169</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +244,8 @@
     <MESSAGE value="add 2-1.png" />
     <MESSAGE value="add 2-2.png" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="js hw1 done!" />
+    <MESSAGE value="js cw1 done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="js cw1 done!" />
   </component>
 </project>
