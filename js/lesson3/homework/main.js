@@ -82,7 +82,7 @@
 
 // - Створити масив з 10 елементів числового, стрічкового і булевого типу. За допомогою if та typeof вивести тільки рядкові елементи
 // let arr = [1, 2, 3, true, false, 'one', 'two', 'three', 100, 200]
-// for (i = 0; arr.length; i++){
+// for (i = 0; i < arr.length; i++){
 //     if (typeof arr[i] === 'string') continue;
 //         console.log(arr[i]);
 // };
