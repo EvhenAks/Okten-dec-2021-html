@@ -40,7 +40,6 @@ let simpsons = [
 ];
 
 
-
 let products = [
     {
         title: 'milk',
@@ -75,7 +74,6 @@ let products = [
 // // <!--template 2.1-->
 
 
-
 //
 // for (let i = 0; i < simpsons.length; i++) {
 //     let simpson = simpsons[i];
@@ -90,7 +88,6 @@ let products = [
 //     let simpson = simpsons[i];
 //     document.write(`<div><h2>${simpson.name} ${simpson.surname}. age is - ${simpson.age}</h2><p>${simpson.info}</p><img src="${simpson.photo}"></div>`)
 // }
-
 
 
 // document.write('<div>')
@@ -116,7 +113,7 @@ let products = [
 // -->
 
 document.write('<div class="cards">')
-for (let i = 0; i < products.length; i++){
+for (let i = 0; i < products.length; i++) {
     let product = products[i];
     document.write(`<div class="product-card">`)
     document.write(`<h3 class="product-title">${product.title}. Price - ${product.price}</h3>`)
