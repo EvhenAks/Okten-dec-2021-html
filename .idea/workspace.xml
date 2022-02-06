@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="953236af-3137-4ccb-a96c-6ff74dff7d0f" name="Changes" comment="js hw2 done!">
+    <list default="true" id="953236af-3137-4ccb-a96c-6ff74dff7d0f" name="Changes" comment="add lesson3 cw3">
+      <change afterPath="$PROJECT_DIR$/js/lesson3/classwork/cw html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lesson3/classwork/cw html/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lesson3/classwork/cw html/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +48,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -88,6 +92,9 @@
       <workItem from="1643807496104" duration="3461000" />
       <workItem from="1643811202578" duration="231000" />
       <workItem from="1643829869826" duration="6040000" />
+      <workItem from="1643908073108" duration="2911000" />
+      <workItem from="1644074660324" duration="13277000" />
+      <workItem from="1644144065090" duration="6601000" />
     </task>
     <task id="LOCAL-00001" summary="new commit">
       <created>1642101992367</created>
@@ -229,7 +236,49 @@
       <option name="project" value="LOCAL" />
       <updated>1643841585306</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="js hw2 done!">
+      <created>1643908175294</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1643908175294</updated>
+    </task>
+    <task id="LOCAL-00022" summary="js hw2 done!">
+      <created>1643908196874</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1643908196874</updated>
+    </task>
+    <task id="LOCAL-00023" summary="js cw2 done!">
+      <created>1643910880620</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1643910880620</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add lesson2 additional task">
+      <created>1644076291554</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1644076291554</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add lesson3 hw">
+      <created>1644085759964</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1644085759964</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add lesson3 cw3">
+      <created>1644097673305</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1644097673305</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +311,10 @@
     <MESSAGE value="js cw1 done!" />
     <MESSAGE value="js cw1 done!!!" />
     <MESSAGE value="js hw2 done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="js hw2 done!" />
+    <MESSAGE value="js cw2 done!" />
+    <MESSAGE value="add lesson2 additional task" />
+    <MESSAGE value="add lesson3 hw" />
+    <MESSAGE value="add lesson3 cw3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson3 cw3" />
   </component>
 </project>
