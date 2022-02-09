@@ -48,7 +48,7 @@
 //             min = minElement
 //         }
 //     }
-//     console.log(min)
+//     return min
 // }
 //
 // minNumber(arrNumber)
