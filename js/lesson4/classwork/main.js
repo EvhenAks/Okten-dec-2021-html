@@ -132,8 +132,8 @@
 // console.log(randomArr)
 
 // - Функція приймає масив та робить з нього новий масив в зворотньому порядку. [1,2,3] -> [3, 2, 1].
-// let arr = [1, 2, 3];
-//
+
+
 // let arr = [1,2,3];
 // function reverse(arr){
 //     let reverseArr = []
