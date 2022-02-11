@@ -98,8 +98,8 @@
 //             min = arguments[i]
 //         }
 //     }
-//     console.log(min, max);
-//     return max;
+//     console.log(max);
+//     return min;
 // }
 //
 // minMax(100, 10, 300, 500, 50, 250)
