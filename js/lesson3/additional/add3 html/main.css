@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+}
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.post-card{
+    width: 19vw;
+    border: coral 1px solid;
+}

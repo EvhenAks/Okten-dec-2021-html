@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+}
+
+.users-box{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.user-block{
+    width: 50vw;
+    border: coral 1px solid;
+}
